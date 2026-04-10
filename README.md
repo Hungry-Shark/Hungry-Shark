@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hungry-Shark
-- 👀 I’m interested in Webapp Develpment and Drones 
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in UI/UX and AI Applications building. 
+- 🌱 I’m currently learning Agentic Ops.
 - 💞️ I’m looking to collaborate on Google technologies
 - 📫 How to reach me shashikant2004@singh@gmail.com
 - 😄 Pronouns: He/Him
